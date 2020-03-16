@@ -5,11 +5,11 @@ Inteligência Artificial para Todos
 
 ## Introdução 
 * Abordagens, Tarefa, Áreas de conhecimento 
-** Busca
-** Aprendizado de Máquina 
-** Otimização 
-** Processamento de Linguagem Natural 
-** Visão Computacional 
+ * Busca
+ * Otimização
+ * Aprendizado de Máquina 
+ * Processamento de Linguagem Natural 
+ * Visão Computacional 
 
 ## Busca
 * Busca Sega 
