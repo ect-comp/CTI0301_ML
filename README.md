@@ -19,6 +19,7 @@ Inteligência Artificial para Todos
 ## Aprendizado de Máquina 
 * Classificação 
 * Regressão 
+* Agrupamentos 
 
 ## Otimização 
 * Encontrar a melhor amostra dado um critério 
