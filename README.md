@@ -4,7 +4,7 @@ Inteligência Artificial para Todos
 - Uma abordagem baseada em problemas 
 
 ## Introdução 
-* Abordagens, Tarefa, Áreas de conhecimento 
+* Abordagens, Tarefas, Áreas de conhecimento 
   * Busca
   * Otimização
   * Aprendizado de Máquina 
@@ -13,7 +13,7 @@ Inteligência Artificial para Todos
 
 ## Busca
 * Busca Sega 
-* Busca heurística
+* Busca Heurística
 * Busca Ótima (Algoritmo de Dijkstra) 
 
 ## Aprendizado de Máquina 
