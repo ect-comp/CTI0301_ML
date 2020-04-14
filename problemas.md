@@ -14,6 +14,6 @@ Descrição (Entre um e dois parágrafos)
 
 Ao atribuir um membro de uma equipe de projeto para executar uma determinada atividade, preciso da confirmação de que fiz a escolha correta ou o aviso de que outro membro será capaz de realizar a mesma tarefa em menor tempo, com menor custo e/ou melhor qualidade.
 
-## Don't stop my retail - Ferramenta para auxiliar na classificação, nova precificação e destinação (criar nova tabela de preços, divulgar em rede social, avisar colaboradores, etc) do estoque de empresas de varejo. (Carlos Eduaro Bezerra) 
+## Don't stop my retail - Ferramenta para auxiliar na classificação, nova precificação e destinação (criar nova tabela de preços, divulgar em rede social, avisar colaboradores, etc) do estoque de empresas de varejo. (Carlos Eduardo Bezerra) 
 
 Criar ferramenta para: classificar o estoque parado, realizar nova precificação e destinar esses produtos identificados para alguma ação, desde um simples aviso e/ou na tabela de preços ou até mesmo divulgar em plataforma eletrônica (e-commerce ou rede social).  A classficação será feita através de alguns paramêtros históricos da base de dados dos produtos e suas respectivas vendas. A precificação também irá fazer uma análise das informações dos produtos, localização onde está o produto, como também do perfil do cliente que está demonstrando interesse em comprar o produto. A destinação deste processo é de acordo com a necessidade da empresa de varejo achar mais viável para escoar seus produtos classificados em estoque parado.
