@@ -17,3 +17,9 @@ Ao atribuir um membro de uma equipe de projeto para executar uma determinada ati
 ## Don't stop my retail - Ferramenta para auxiliar na classificação, nova precificação e destinação (criar nova tabela de preços, divulgar em rede social, avisar colaboradores, etc) do estoque de empresas de varejo. (Carlos Eduardo Bezerra) 
 
 Criar ferramenta para: classificar o estoque parado, realizar nova precificação e destinar esses produtos identificados para alguma ação, desde um simples aviso e/ou na tabela de preços ou até mesmo divulgar em plataforma eletrônica (e-commerce ou rede social).  A classficação será feita através de alguns paramêtros históricos da base de dados dos produtos e suas respectivas vendas. A precificação também irá fazer uma análise das informações dos produtos, localização onde está o produto, como também do perfil do cliente que está demonstrando interesse em comprar o produto. A destinação deste processo é de acordo com a necessidade da empresa de varejo achar mais viável para escoar seus produtos classificados em estoque parado.
+
+## IA - Contratações Assertivas ( Lana Souza )
+Construir algorritmo que viabilize cruzar perfil do candidato mais aderente ao o perfil da vaga. Usaremos como medida os estudos no Modelo dos 5 fatores: BIG FIVE - refere-se em psicologia aos cinco fatores da personalidade descritos pelo método lexical, ou seja, baseado em uma análise linguística: Abertura para a experiência (openness to experience); Conscienciosidade (conscientiousness); Extroversão (extraversion); Neuroticismo ou Instabilidade Emocional (ingl. neuroticism); Amabilidade (agreeableness).
+
+
+
