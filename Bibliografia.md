@@ -9,6 +9,7 @@
 ## Machine Learning 
 * Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016.
 * Géron, Aurélien. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media, 2019.
+* Dive into Deep Learning, http://d2l.ai/index.html
 * Lee, Kai-Fu. AI superpowers: China, Silicon Valley, and the new world order. Houghton Mifflin Harcourt, 2018.
 * Mills, Terence C. Applied Time Series Analysis: A Practical Guide to Modeling and Forecasting. Academic Press, 2019.
 * Müller, Andreas C., and Sarah Guido. Introduction to machine learning with Python: a guide for data scientists. " O'Reilly Media, Inc.", 2016.
