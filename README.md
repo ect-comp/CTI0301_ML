@@ -7,22 +7,19 @@ Conteúdo de apoio sobre Machine Learning do Componente Curricular PPCTI0014
 * [Visão Geral da Área](https://github.com/ect-info/dpia/blob/master/visao_geral.md) 
 
 # _Machine Learning_ 
-
 ## Canal de Comunicação 
-* Para compartilhamento de conhecimento entre os estudantes: 
+* Para compartilhamento de conhecimento entre os estudantes: https://discord.gg/jzKN8kx 
 
 ## Material de Aula 
 Estes formulários registram a participação nas aulas assínscronas. 
 
 ### Introdução ao Aprendizado de Máquina 
-
 * [Vídeos e Form: Introdução ao Aprendizado de Máquina](https://forms.gle/WdtWMRU82BJk7Axg9)   
 * [Vídeos e Form: Aprendizado de Máquina - Exemplos](https://forms.gle/F81TvEqfSLBNCUCV9)   
 * [Vídeos e Form: Introdução ML - Principais Conceitos](https://forms.gle/wjzKg4GfCCbQMihXA)   
 * [Slides: Conceitos](https://docs.google.com/presentation/d/1UKK1HW9Wfh-q2qqAloiJYp179EVMw5GuVu3Yzphefgw/edit?usp=sharing)   
 
 ### Breve introdução sobre Regressão Linear  
-
 * [Vídeos e Form](https://forms.gle/QWaVAi71GBTnjNYK8) 
 * [Slides](https://docs.google.com/presentation/d/1iELBYui_t5S_FNhsOZkqm_a1xvHtOW17QbGeLYWAr-s/edit?usp=sharing) 
 * [Códigos](https://colab.research.google.com/drive/1cnvCdgxz0eHWzSSjKrMPD1LLj5VE21rv?usp=sharing)  
@@ -31,7 +28,6 @@ Estes formulários registram a participação nas aulas assínscronas.
 * Implementação do perceptron, https://github.com/ect-info/ml/tree/master/guias/Perceptron 
 
 ## Bibliografia Básica 
-
 * GÉRON; **Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems**. O’REILLY, 2017.
 * MITCHELL; **Machine Learning**, Publisher: McGraw-Hill Science/Engineering/Math, 1997.
 * NEGNEVITSKY; **Artificial Intelligence: A Guide to Intelligent Systems**, Second Edition, Publisher Addison Wesley.
