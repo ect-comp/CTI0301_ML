@@ -2,7 +2,10 @@
 
 ## Online 
 
-* Dive into Deep Learning, http://d2l.ai/index.html
+* [Dive into Deep Learning](http://d2l.ai/index.html) 
+* [Deep Learning Book](http://www.deeplearningbook.org/) 
+* [Livro Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) 
+* [Livro Hands-On Machine Learning](https://github.com/ageron/handson-ml) 
 
 ## Processamento de Linguagem Natural 
 * Bird, Steven, Ewan Klein, and Edward Loper. Natural language processing with Python: analyzing text with the natural language toolkit. " O'Reilly Media, Inc.", 2009. - 
