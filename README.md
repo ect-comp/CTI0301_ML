@@ -1,7 +1,11 @@
 # Desenvolvimento de Projetos com Inteligência Artificial
 
-Inteligência Artificial para Todos 
-- Uma abordagem baseada em problemas 
+## Menu 
+* [Referências Bibliográficas](https://github.com/ect-info/dpia/blob/master/Bibliografia.md) 
+* [Referências de Cursos Online](https://github.com/ect-info/ml/blob/master/cursos_online.md) 
+
+
+# Visão Geral  
 
 ## Introdução 
 * Abordagens, Tarefas, Áreas de conhecimento 
