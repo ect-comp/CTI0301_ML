@@ -29,7 +29,7 @@ Estes formulários registram a participação nas aulas assínscronas.
 * [Vídeos e Form: MLP parte 1](https://forms.gle/dxLF9TrefapGpo3WA)   
 * [Vídeos e Form: MLP Parte 2](https://forms.gle/t1kD1yEAoLpziKhX7)   
 * [Slides: MLP](https://docs.google.com/presentation/d/1oIzH-SNbJ3_4vYZdt_IZQi3537BUJKsvio_oV8c8Bnc/edit?usp=sharing)   
-* [Código: Exemplo de perceptron](https://docs.google.com/presentation/d/1oIzH-SNbJ3_4vYZdt_IZQi3537BUJKsvio_oV8c8Bnc/edit?usp=sharing)   
+* [Código: Exemplo de perceptron](https://colab.research.google.com/drive/1jbFCvifaAou19mlu2pI3Rso8DoMow_zl?usp=sharing)   
 
 ## Exemplos 
 * Implementação do perceptron, https://github.com/ect-info/ml/tree/master/guias/Perceptron 
