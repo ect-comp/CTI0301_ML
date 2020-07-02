@@ -24,6 +24,13 @@ Estes formulários registram a participação nas aulas assínscronas.
 * [Slides](https://docs.google.com/presentation/d/1iELBYui_t5S_FNhsOZkqm_a1xvHtOW17QbGeLYWAr-s/edit?usp=sharing) 
 * [Códigos](https://colab.research.google.com/drive/1cnvCdgxz0eHWzSSjKrMPD1LLj5VE21rv?usp=sharing)  
 
+### Introdução Multilayer Perceptron (MLP) 
+
+* [Vídeos e Form: MLP parte 1](https://forms.gle/dxLF9TrefapGpo3WA)   
+* [Vídeos e Form: MLP Parte 2](https://forms.gle/t1kD1yEAoLpziKhX7)   
+* [Slides: MLP](https://docs.google.com/presentation/d/1oIzH-SNbJ3_4vYZdt_IZQi3537BUJKsvio_oV8c8Bnc/edit?usp=sharing)   
+* [Código: Exemplo de perceptron](https://docs.google.com/presentation/d/1oIzH-SNbJ3_4vYZdt_IZQi3537BUJKsvio_oV8c8Bnc/edit?usp=sharing)   
+
 ## Exemplos 
 * Implementação do perceptron, https://github.com/ect-info/ml/tree/master/guias/Perceptron 
 
