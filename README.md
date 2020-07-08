@@ -4,7 +4,9 @@ Conteúdo de apoio sobre Machine Learning do Componente Curricular PPCTI0014
 ## Menu 
 * [Referências Bibliográficas](https://github.com/ect-info/dpia/blob/master/Bibliografia.md) 
 * [Referências de Cursos Online](https://github.com/ect-info/ml/blob/master/cursos_online.md) 
+* [Outras Referências](https://github.com/ect-info/ml/blob/master/outras_referencias.md) 
 * [Visão Geral da Área](https://github.com/ect-info/dpia/blob/master/visao_geral.md) 
+* [Material de Aula]()
 
 # _Machine Learning_ 
 ## Canal de Comunicação 
