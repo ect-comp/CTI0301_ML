@@ -32,7 +32,7 @@ Estes formulários registram a participação nas aulas assínscronas.
 * [Slides: MLP](https://docs.google.com/presentation/d/1oIzH-SNbJ3_4vYZdt_IZQi3537BUJKsvio_oV8c8Bnc/edit?usp=sharing)   
 * [Código: Exemplo de perceptron](https://colab.research.google.com/drive/1jbFCvifaAou19mlu2pI3Rso8DoMow_zl?usp=sharing) 
 
-### Suport Vector Machine (SVM) - Introdução
+### Introdução sobre Suport Vector Machine (SVM)
 * [Vídeos e Form: SVM](https://forms.gle/HeSy2YQbopSn8wtR8) 
 * [Exemplo de código: SVM Linear](https://colab.research.google.com/drive/1VYmZBcf2FHmz_gwPRxllxwoy0nTaU8X9?usp=sharing) 
 * [Slides](https://docs.google.com/presentation/d/19mAI5sjOWURpzuKpoFjbjmCkjUXUysU_kysfbksmVAg/edit?usp=sharing) 
@@ -42,6 +42,16 @@ Estes formulários registram a participação nas aulas assínscronas.
 * [Slides: _Deep Learning_](https://docs.google.com/presentation/d/1pxztvhuOc36D76cDW86oj8nGZAIlQSEn2GZJE0GzGLw/edit?usp=sharing)
 * [Exemplo de código: MLP - Exemplo sobre se um cliente deixa um banco](https://colab.research.google.com/drive/1NndIE2zvup_aWqSG06JR7i6_WxXQ-xMU?usp=sharing)
 * [Exemplo de código: Reconhecimento de caracteres escritos a mão](https://colab.research.google.com/drive/1gGi-n3vAJkjdEKMYLZkSCXoDhyRS1tSJ?usp=sharing)
+
+### Introdução sobre K-Means
+* [Vídeos e Form: K-Means](https://forms.gle/bkv237BKBocSWYvs5)
+* [Slides](https://docs.google.com/presentation/d/1hzeAFwgHNZ7pr_POzd4_2lXUgOz_vrVfuhjxl6tbBCs/edit?usp=sharing)
+* [Exemplo de código: perfil de clientes de uma loja](https://colab.research.google.com/drive/15Q-gTih7v2f5pYc64xQa2ytzX2gisX0q?usp=sharing)
+
+### Introdução sobre Rede SOM 
+* [Vídeos e Form: Rede SOM](https://forms.gle/8NjtCZed5br1Yke47)
+* [Slides](https://docs.google.com/presentation/d/1vGS--E6VbtohvVkUo23GM-0MsL-EMTnxAXKcSHiomLI/edit?usp=sharing)
+* [Exemplo de código: visualizar os perfis de alunos da Escola de Ciência e Tecnologia da UFRN](https://colab.research.google.com/drive/1PX9YlNGx_pjgesMsnhyjrXI-nsuJOdWI?usp=sharing)
 
 
 ## Exemplos 
