@@ -1,7 +1,7 @@
 # Referências 
 
 ## Online 
-
+* [Deep Learning Book - versão em português](http://deeplearningbook.com.br/) 
 * [Dive into Deep Learning](http://d2l.ai/index.html) 
 * [Deep Learning Book](http://www.deeplearningbook.org/) 
 * [Livro Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) 
