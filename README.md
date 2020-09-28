@@ -58,6 +58,12 @@ Estes formulários registram a participação nas aulas assínscronas.
 * [Código: reconhecimento de números escritos à mão](https://colab.research.google.com/drive/1gd9aB82vSHAEb_nHV0wJJZU4-gSfPbHN?usp=sharing) 
 * [Slides](https://docs.google.com/presentation/d/1KTPsi2Y4U63cuNUoCh32sd3VJfyYf6MA7NT3fHucboM/edit?usp=drivesdk)
 
+
+### Introdução sobre Processamento de Linguagem Natural (NLP) 
+* [Slides: NLP ](https://docs.google.com/presentation/d/1yFBohFjlsk-O7Rw7YthMVi3nji1zFHYwLQRUZfLv31c/edit?usp=sharing)
+* [Form e vídeos](https://forms.gle/UAbKYR8AesufY6q38)
+* [Código: Análise de sentimentos ](https://colab.research.google.com/drive/1n80Us6FJZ74XyYIyl8iiqbSyIBapk9Yj?usp=sharing)
+
 ## Exemplos 
 * Implementação do perceptron, https://github.com/ect-info/ml/tree/master/guias/Perceptron 
 
