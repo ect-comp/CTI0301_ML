@@ -6,6 +6,8 @@
 * [Deep Learning Book](http://www.deeplearningbook.org/) 
 * [Livro Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) 
 * [Livro Hands-On Machine Learning](https://github.com/ageron/handson-ml) 
+* [Livro An Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%2520to%2520Statistical%2520Learning.pdf)
+
 
 ## Processamento de Linguagem Natural 
 * Bird, Steven, Ewan Klein, and Edward Loper. Natural language processing with Python: analyzing text with the natural language toolkit. " O'Reilly Media, Inc.", 2009. - 
