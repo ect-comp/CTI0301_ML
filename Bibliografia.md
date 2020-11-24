@@ -6,7 +6,7 @@
 * [Deep Learning Book](http://www.deeplearningbook.org/) 
 * [Livro Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) 
 * [Livro Hands-On Machine Learning](https://github.com/ageron/handson-ml) 
-* [Livro An Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%2520to%2520Statistical%2520Learning.pdf)
+* [An Introduction to Statistical Learning](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ime.unicamp.br/~dias/Intoduction%2520to%2520Statistical%2520Learning.pdf&ved=2ahUKEwjBpZDxjprtAhVFILkGHaGxAfQQFjAKegQIBRAB&usg=AOvVaw0yPYskUlWRY0n_jGdD86LH)
 
 
 ## Processamento de Linguagem Natural 
