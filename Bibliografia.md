@@ -29,7 +29,7 @@
 * Patterson, Josh, and Adam Gibson. Deep learning: A practitioner's approach. " O'Reilly Media, Inc.", 2017.
 
 ## Data Science 
-* VanderPlas, Jake. Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.", 2016.
+* [VanderPlas, Jake. Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.", 2016.](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * Griffiths, Dawn. Head First Statistics: A Brain-Friendly Guide. " O'Reilly Media, Inc.", 2008.
 * Bruce, Peter, and Andrew Bruce. Practical statistics for data scientists: 50 essential concepts. " O'Reilly Media, Inc.", 2017.
 * Feller, William. "An introduction to probability theory and its applications." 1957.
