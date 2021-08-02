@@ -2,6 +2,7 @@
 
 Esse exemplo é uma desmonstração didática usando como base de dados Iris. 
 
+![KNIME_keras_mlp](https://user-images.githubusercontent.com/19957124/127913292-5f976fa4-52bc-4b61-b1d4-ef64d41af115.png)
 
 ## Pré-processamento 
 
@@ -80,3 +81,6 @@ TRUE => 3
 ### Scorer 
 * Primeira coluna: _Species_  
 * Segunda coluna: *prediction_final*
+
+
+![matriz_conf](https://user-images.githubusercontent.com/19957124/127913331-0decb48c-971a-4987-b42b-3c45af2d4690.png)
