@@ -17,11 +17,11 @@
 
 ## Machine Learning 
 * Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016.
+* Müller, Andreas C., and Sarah Guido. Introduction to machine learning with Python: a guide for data scientists. " O'Reilly Media, Inc.", 2016.
 * Géron, Aurélien. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media, 2019.
 * Lee, Kai-Fu. AI superpowers: China, Silicon Valley, and the new world order. Houghton Mifflin Harcourt, 2018.
 * Raschka, Sebastian, and Vahid Mirjalili. Python machine learning: Machine learning and deep learning with Python, scikit-learn, and TensorFlow 2. Packt Publishing Ltd, 2019.
 * Mills, Terence C. Applied Time Series Analysis: A Practical Guide to Modeling and Forecasting. Academic Press, 2019.
-* Müller, Andreas C., and Sarah Guido. Introduction to machine learning with Python: a guide for data scientists. " O'Reilly Media, Inc.", 2016.
 * Liu, Yuxi Hayden. Python Machine Learning By Example. Packt Publishing Ltd, 2017.
 * Bishop, Christopher M. Pattern recognition and machine learning. springer, 2006.
 * Hope, Tom, Yehezkel S. Resheff, and Itay Lieder. Learning tensorflow: A guide to building deep learning systems. " O'Reilly Media, Inc.", 2017.
@@ -29,7 +29,7 @@
 * Patterson, Josh, and Adam Gibson. Deep learning: A practitioner's approach. " O'Reilly Media, Inc.", 2017.
 
 ## Data Science 
-* VanderPlas, Jake. Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.", 2016.
+* [VanderPlas, Jake. Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.", 2016.](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * Griffiths, Dawn. Head First Statistics: A Brain-Friendly Guide. " O'Reilly Media, Inc.", 2008.
 * Bruce, Peter, and Andrew Bruce. Practical statistics for data scientists: 50 essential concepts. " O'Reilly Media, Inc.", 2017.
 * Feller, William. "An introduction to probability theory and its applications." 1957.
