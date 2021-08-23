@@ -1,3 +1,7 @@
+# Exemplo com K-Means
+
+![print_kmeans_ex1](https://user-images.githubusercontent.com/19957124/130485163-8118fc39-8a36-4586-9ee5-6edae12db820.png)
+
 ## Pré-processamento 
 
 ### File Reader 
@@ -21,6 +25,5 @@
 * Usar a configuração padrão 
 
 ## Gráfico Resultante 
-
-![print_kmeans_ex1](https://user-images.githubusercontent.com/19957124/130485163-8118fc39-8a36-4586-9ee5-6edae12db820.png)
+![print_kmeans_ex1_grafico](https://user-images.githubusercontent.com/19957124/130485428-009bbae2-e8b0-4cb3-bc10-eab2d0222101.png)
 
