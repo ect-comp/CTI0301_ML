@@ -32,6 +32,7 @@
 * [VanderPlas, Jake. Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.", 2016.](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * Griffiths, Dawn. Head First Statistics: A Brain-Friendly Guide. " O'Reilly Media, Inc.", 2008.
 * Bruce, Peter, and Andrew Bruce. Practical statistics for data scientists: 50 essential concepts. " O'Reilly Media, Inc.", 2017.
+* Provost e Fawcett. Data science para negócios: O que você precisa saber sobre mineração de dados e pensamento analítico de dados. Alta Books, 2016.
 * Feller, William. "An introduction to probability theory and its applications." 1957.
 * McKinney, Wes. Python for data analysis: Data wrangling with Pandas, NumPy, and IPython. " O'Reilly Media, Inc.", 2012.
 * Dietrich, David, E. Heller, and Beibei Yang. Data science & big data analytics: discovering, analyzing, visualizing and presenting data. Wiley, 2015.
