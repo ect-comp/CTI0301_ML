@@ -1,4 +1,4 @@
-# Desenvolvimento de Projetos com Inteligência Artificial
+# Aprendizado de Máquina Aplicado a Negócios
 
 Todos os semestres: 
 * [2023.1](aulas/2023_1.md)
